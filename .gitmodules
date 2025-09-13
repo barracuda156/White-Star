@@ -1,6 +1,8 @@
 [submodule "platform"]
 	path = platform
 	url = https://repo.palemoon.org/dbsoft/UXP.git
+	branch = macppc-fixes8
 [submodule "whitestar/branding/whitestar"]
 	path = whitestar/branding/whitestar
 	url = https://github.com/dbsoft/White-Star-Branding.git
+	branch = macppc
